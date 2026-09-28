@@ -1,3 +1,12 @@
+https://ai-social-media-analytics.streamlit.app/
+
+
+
+
+
+
+
+
 # 🚀 AI Social Media Analytics Dashboard
 
 A professional Instagram-inspired analytics dashboard built using **Python**, **Streamlit**, and **Plotly**.
